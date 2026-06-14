@@ -28,8 +28,13 @@
 ## 수역 + 녹조 신호
 ![녹조 오버레이](assets/algae_overlay.png)
 
-## 영상카드
-- [`insight_nakdong_algae.mp4`](videocards/insight_nakdong_algae.mp4)
+## 영상카드 (미리보기)
+
+_아래는 각 영상의 대표 장면입니다. 영상은 링크에서 재생/다운로드._
+
+![insight_nakdong_algae](assets/insight_nakdong_algae__strip.png)
+▶️ [insight_nakdong_algae.mp4 영상 보기](videocards/insight_nakdong_algae.mp4)
+
 
 ---
 _AssiWorks - GEOINT · 2026-06-13 19시 · Sentinel-2 (ESA)_

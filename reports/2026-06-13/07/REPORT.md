@@ -33,10 +33,19 @@
 ## 연소강도 지도 (dNBR)
 ![severity](assets/severity_overlay.png)
 
-## 영상카드
-- [`wildfire_wf1_story.mp4`](videocards/wildfire_wf1_story.mp4) — 화재 전→직후→1년 후
-- [`wildfire_wf2_severity.mp4`](videocards/wildfire_wf2_severity.mp4) — 연소강도
-- [`wildfire_wf3_recovery.mp4`](videocards/wildfire_wf3_recovery.mp4) — 1년 후 회복
+## 영상카드 (미리보기)
+
+_아래는 각 영상의 대표 장면입니다. 영상은 링크에서 재생/다운로드._
+
+![wildfire_wf1_story](assets/wildfire_wf1_story__strip.png)
+▶️ [wildfire_wf1_story.mp4 영상 보기](videocards/wildfire_wf1_story.mp4)
+
+![wildfire_wf2_severity](assets/wildfire_wf2_severity__strip.png)
+▶️ [wildfire_wf2_severity.mp4 영상 보기](videocards/wildfire_wf2_severity.mp4)
+
+![wildfire_wf3_recovery](assets/wildfire_wf3_recovery__strip.png)
+▶️ [wildfire_wf3_recovery.mp4 영상 보기](videocards/wildfire_wf3_recovery.mp4)
+
 
 ---
 _AssiWorks - GEOINT · 2026-06-13 07시 · Sentinel-2 (ESA)_

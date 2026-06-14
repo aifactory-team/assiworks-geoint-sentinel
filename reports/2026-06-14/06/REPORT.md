@@ -26,8 +26,13 @@
 ## 수역 + 수질 신호
 ![overlay](assets/algae_overlay.png)
 
-## 영상카드
-- [`insight_card.mp4`](videocards/insight_card.mp4)
+## 영상카드 (미리보기)
+
+_아래는 각 영상의 대표 장면입니다. 영상은 링크에서 재생/다운로드._
+
+![insight_card](assets/insight_card__strip.png)
+▶️ [insight_card.mp4 영상 보기](videocards/insight_card.mp4)
+
 
 ---
 _AssiWorks - GEOINT · 2026-06-14 06시 · Sentinel-2 (ESA)_
